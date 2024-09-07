@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on fullstack projects
+- 🤝 I’m looking to collaborate on fullstack projects
 - 💬 Ask me about my favorite movie
 - 📫 How to reach me: arthur.devbr@gmail.com
-- ⚡ Fun fact: I'm a veterinarian!
+- 🩺 Fun fact: I'm a veterinarian!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-vieira-dev/) 
