@@ -1,6 +1,6 @@
 ## Hi! I'm Arthur Vieira. </br>...and welcome to my GitHub page! 😄
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working on build a strong portifolio
 - 🌱 I’m currently learning Java
 - 🤝 I’m looking to collaborate on fullstack projects
 - 🎬 Ask me about my favorite movie
