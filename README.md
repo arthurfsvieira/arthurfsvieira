@@ -1,4 +1,4 @@
-## Hi! I'm Arthur Vieira. </br>...and welcome to my GitHub page! 😄
+## Hi! I'm Arthur Vieira. </br>...and welcome to my GitHub page! 💻
 
 - 🔭 I’m currently working on build a strong portifolio
 - 🌱 I’m currently learning PHP 🐘
